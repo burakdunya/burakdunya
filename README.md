@@ -1,5 +1,5 @@
 Selam, Ben Burak! 👋
-Şu anda üzerinde çalıştığım ve yayına aldığım projeler:
+Şu anda üzerinde çalıştığım ve yayına aldığım proje:
 
 🚀 Yıldız Raketler
 
